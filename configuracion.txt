@@ -1,0 +1,10 @@
+perro
+gato
+elefante
+jirafa
+león
+tigre
+delfín
+águila
+conejo
+oso

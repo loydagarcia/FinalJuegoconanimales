@@ -1,0 +1,7 @@
+Este es un juegocon animales, consite en adivinar que animal elijio la computadora.
+
+Bienvenido al juego con animales
+1. Piensa en un animal
+2. El programa intentará adivinarlo
+3. Responde con 'sí' o 'no'
+4. Si no adivina, enséñale un nuevo animal
